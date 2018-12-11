@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: restapi
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Osama Chaudhary
+Implementation-Vendor-Id: com.restapi
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/restapi
+Created-By: Maven Integration for Eclipse
+
